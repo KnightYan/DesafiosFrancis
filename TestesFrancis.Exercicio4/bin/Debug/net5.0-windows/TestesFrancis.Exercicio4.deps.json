@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestesFrancis.Exercicio4/1.0.0": {
+        "runtime": {
+          "TestesFrancis.Exercicio4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestesFrancis.Exercicio4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
